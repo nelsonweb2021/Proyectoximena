@@ -216,7 +216,7 @@ height: auto;
 @media screen and (max-width: 600px) {
   
  
- .contenedor  {
+ .cabecera  {
   display: flex; 
   justify-content: space-between;
   position: relative; 
