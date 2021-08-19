@@ -148,7 +148,7 @@ height: auto;
 .Modulos article {
  display: flex;
  justify-content: center; 
- aling-content: center;
+ align-content: center;
  flex-flow: wrap;
  border: solid;
  border-radius: 15px;
